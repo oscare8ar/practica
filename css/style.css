@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.carousel-caption h5 {
+    color: gold;
+    font-family: comic sans ms;   
+}
+
+.art1 {
+    padding: 40px;
+}
+
+.text1 {
+    text-align: center;
+    padding: 40px;
+}
+
+.art2 {
+    padding: 40px;
+    background-color: rgba(235, 230, 230, 0.97);
+}
